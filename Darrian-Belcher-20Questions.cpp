@@ -2,7 +2,7 @@
 Name(s): Darrian Belcher
 Date: 02/20/21
 Program Name: 20 Questions
-Program Description: 20 Questions game in which the user selects an animal and continuously answeres yes or no questions until the animal has been correctly selected
+Program Description: 20 Questions game in which the user selects an animal and continuously answeres yes or no questions until the animal has been correctly selected by the program
 */
 
 #include <iostream>
